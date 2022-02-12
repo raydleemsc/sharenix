@@ -13,6 +13,8 @@
    along with sharenix. If not, see <http://www.gnu.org/licenses/>.
 */
 
+// Forked for raydleemsc
+
 // Package sharenixlib contains the core functionalities of sharenix
 // it can be used to implement custom front-ends for sharenix.
 // NOTE: to compile this, you need gtk 2.0 and >=go-1.3.1
@@ -44,7 +46,7 @@ import (
 )
 
 const (
-	ShareNixVersion = "ShareNix 0.12.3"
+	ShareNixVersion = "ShareNix 0.12.3.1"
 )
 
 const (
